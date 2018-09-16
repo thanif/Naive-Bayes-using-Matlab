@@ -1,4 +1,4 @@
-# Naive-Bayes-using-Matlab
+# Naive-Bayes-using-Octave
 
 The Main script performs the following tasks:
 
